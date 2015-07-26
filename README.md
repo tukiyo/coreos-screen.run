@@ -1,13 +1,12 @@
 # coreos-screen.run
 coreosでscreenコマンドを使えるようにする
 
-## install
+## usage
 
 ```
-sudo ./screen.run
+wget -q https://raw.githubusercontent.com/tukiyo/coreos-screen.run/master/screen.run
+sudo sh screen.run
 ```
-
-## 実行
 
 ```
 screen -R
